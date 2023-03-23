@@ -1,16 +1,5 @@
-:root {
-  --purple--: #51145d;
-  --dark-purple: #71206bae;
-  --peach-puff: rgb(255, 218, 185);
-  --bg-color: #ffffff;
-  --bg-color-dark-grey: #dfd8ca;
-  --cursive-font: "Alex Brush", cursive;
-  --paragraph-font: "Poppins", sans-serif;
-  --bold-font: "Bayon", sans-serif;
-}
 body {
-  background: linear-gradient(to top, #cd9cf2 0%, #f6f3ff 100%);
-  margin-top: 10px;
+  background-color: #51145d;
 }
 .navbar ul li {
   list-style: none;
